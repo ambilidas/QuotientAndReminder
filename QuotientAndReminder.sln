@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuotientAndReminder", "QuotientAndReminder.csproj", "{78780A74-8105-42EF-B9FB-D924316B6A05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78780A74-8105-42EF-B9FB-D924316B6A05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78780A74-8105-42EF-B9FB-D924316B6A05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78780A74-8105-42EF-B9FB-D924316B6A05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78780A74-8105-42EF-B9FB-D924316B6A05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CD5522F-4EB1-421F-B058-67B3495F2D36}
+	EndGlobalSection
+EndGlobal
